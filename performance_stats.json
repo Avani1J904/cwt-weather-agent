@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-06-30T07:06:19.362482",
+  "portfolio": {
+    "balance": 1.75,
+    "starting_balance": 1000.0,
+    "total_pnl": 0,
+    "roi_pct": 0,
+    "total_trades": 31,
+    "open_positions": 12,
+    "closed_trades": 0,
+    "win_rate": 0,
+    "total_invested": 998.25
+  },
+  "city_breakdown": {
+    "New York": {
+      "trades": 3,
+      "wins": 0,
+      "pnl": 0.0
+    },
+    "London": {
+      "trades": 8,
+      "wins": 0,
+      "pnl": 0.0
+    },
+    "Tokyo": {
+      "trades": 5,
+      "wins": 0,
+      "pnl": 0.0
+    },
+    "Sydney": {
+      "trades": 3,
+      "wins": 0,
+      "pnl": 0.0
+    },
+    "Mumbai": {
+      "trades": 6,
+      "wins": 0,
+      "pnl": 0.0
+    },
+    "Dubai": {
+      "trades": 6,
+      "wins": 0,
+      "pnl": 0.0
+    }
+  },
+  "prediction_accuracy": 1.0,
+  "total_predictions": 11
+}
